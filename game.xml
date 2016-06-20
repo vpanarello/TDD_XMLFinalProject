@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GamificationApp>
+  <players>
+    <player>
+      <name>TemplateUser</name>
+      <score>
+        <moeda>1</moeda>
+        <estrela>2</estrela>
+        <topico>3</topico>
+        <comentario>4</comentario>
+        <curtida>5</curtida>
+      </score>
+    </player>
+    <player>
+      <name>Charlie Chapplin</name>
+      <score>
+        <moeda>0</moeda>
+        <estrela>10</estrela>
+        <topico>5</topico>
+        <comentario>0</comentario>
+        <curtida>0</curtida>
+      </score>
+    </player>
+    <player>
+      <name>Mario Bros</name>
+      <score>
+        <moeda>45</moeda>
+        <estrela>10</estrela>
+        <topico>5</topico>
+        <comentario>30</comentario>
+        <curtida>52</curtida>
+      </score>
+    </player>
+    <player>
+      <name>Rubens Barrichelo</name>
+      <score>
+        <moeda>0</moeda>
+        <estrela>0</estrela>
+        <topico>0</topico>
+        <comentario>0</comentario>
+        <curtida>0</curtida>
+      </score>
+    </player>
+    <player>
+      <name>Carlos Blanka</name>
+      <score>
+        <moeda>0</moeda>
+        <estrela>10</estrela>
+        <topico>5</topico>
+        <comentario>1</comentario>
+        <curtida>2</curtida>
+      </score>
+    </player>
+    <player>
+      <name>Lionel Richie</name>
+      <score>
+        <moeda>3</moeda>
+        <estrela>7</estrela>
+        <topico>5</topico>
+        <comentario>3</comentario>
+        <curtida>1</curtida>
+      </score>
+    </player>
+  </players>
+</GamificationApp>

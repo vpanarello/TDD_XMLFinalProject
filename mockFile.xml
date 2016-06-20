@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mockXML>
+  <FirstElement />
+  <SecondElement>
+    <SubElement01>Teste1</SubElement01>
+    <SubElement02>Teste2</SubElement02>
+  </SecondElement>
+  <ThirdElement />
+  <LaterAddedElement>LaterAdded</LaterAddedElement>
+</mockXML>
